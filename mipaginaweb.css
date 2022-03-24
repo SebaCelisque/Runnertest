@@ -11,7 +11,7 @@
   color: blue !important;
 }*/
 body {
-  background-image: url(Descargas/Proyecto-1/imagenes/img.1.png);
+  background-image: url(imagenes/css/img.1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -98,7 +98,7 @@ body {
   margin-top: 8px;
   margin-bottom: 5px;
   margin-left: 20px;
-  list-style-image: url(Descargas/Proyecto-1/imagenes/005-corriendo-1.png);
+  list-style-image: url(imagenes/css/005-corriendo-1.png);
 }
 #sections {
   float:right;
